@@ -1,0 +1,314 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "32b135e1fa8fb49ca5039e019214538e0d1725a5",
+    "jarFileModificationDate": "2013-05-22T15:03:53.124-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "lwjgl",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5654d06e61a1bba7ae1e7f5233e1106be64c91cd",
+    "jarFileModificationDate": "2013-04-21T20:32:54-06:00",
+    "location": "C:\\java\\lwjgl-2.9.0\\lwjgl-2.9.0\\jar\\lwjgl.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ef634c0c4c3550ff0ca6576f3af159b517b5aafe",
+    "jarFileModificationDate": "2013-05-22T15:02:47.830-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6d88fb58238f3dcfeb71ac071cf85a104d16f509",
+    "jarFileModificationDate": "2013-05-22T15:02:46.144-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c87a27eb79e01b9b60a51c6319d3c92da260fcbe",
+    "jarFileModificationDate": "2013-05-22T15:03:54.441-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "71558da5840d2c102a37a0083aedafe6e37e863a",
+    "jarFileModificationDate": "2013-05-22T15:02:46.385-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c4c7923b11e98bc8d1d32bfd2ff6363d212ead80",
+    "jarFileModificationDate": "2013-05-22T15:02:46.643-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "slick-util",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3b50b84388798ac0cc277c1f53c6463a67b07fb0",
+    "jarFileModificationDate": "2013-06-04T06:41:22.418-06:00",
+    "location": "C:\\java\\slick-util.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f831655c50b92c41e366442d09511ea84270c45e",
+    "jarFileModificationDate": "2013-05-22T15:02:48.200-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "abd730a724364204bff29f4e0b3ced4d08f09a47",
+    "jarFileModificationDate": "2013-05-22T15:03:27.789-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.fluent-hc",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 5,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7eda2ae9f77415cf92651191e2229eae2caf0b61",
+    "jarFileModificationDate": "2013-04-19T18:21:52-06:00",
+    "location": "C:\\java\\httpcomponents-client-4.2.5\\lib\\fluent-hc-4.2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2013-05-22T15:02:47.659-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2012-09-02T14:32:18-06:00",
+    "location": "C:\\java\\httpcomponents-client-4.2.5\\lib\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 8,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "af3be3f74d25fc5163b54f56a0d394b462dafafd",
+    "jarFileModificationDate": "2013-04-23T08:55:56-06:00",
+    "location": "C:\\java\\httpcomponents-client-4.2.5\\lib\\commons-codec-1.8.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "318535c12e8ed9df6d2139664f51c5dd841cf10f",
+    "jarFileModificationDate": "2013-05-22T15:02:48.728-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a0b7abe9a4133d6a18d370d9869d0077957d8bc7",
+    "jarFileModificationDate": "2013-05-22T15:02:46.432-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 5,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3bfeb9062b12d5b340445336790dbc14c59c2d79",
+    "jarFileModificationDate": "2013-04-19T18:21:34-06:00",
+    "location": "C:\\java\\httpcomponents-client-4.2.5\\lib\\httpclient-4.2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lwjgl_util",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a778846b64008fc7f48ead2377f034e547991699",
+    "jarFileModificationDate": "2013-04-21T20:32:54-06:00",
+    "location": "C:\\java\\lwjgl-2.9.0\\lwjgl-2.9.0\\jar\\lwjgl_util.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1fbfeeb3449860cd85925cef06714daa4c8220ca",
+    "jarFileModificationDate": "2013-05-22T15:03:12.672-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba1c9658b920bc9815a31913d5d6ae3917428739",
+    "jarFileModificationDate": "2013-05-22T15:03:05.013-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3b7f38df6de5dd8b500e602ae8c2dd5ee446f883",
+    "jarFileModificationDate": "2013-03-20T17:12:08-06:00",
+    "location": "C:\\java\\httpcomponents-client-4.2.5\\lib\\httpcore-4.2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5da320e46f1c616986563b2e788b5a0569cad088",
+    "jarFileModificationDate": "2013-05-22T15:02:46.736-06:00",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient-cache",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 5,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "313cfeb950089985994736aa08885711c56b7e1e",
+    "jarFileModificationDate": "2013-04-19T18:21:46-06:00",
+    "location": "C:\\java\\httpcomponents-client-4.2.5\\lib\\httpclient-cache-4.2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpmime",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 5,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4",
+    "jarFileModificationDate": "2013-04-19T18:21:44-06:00",
+    "location": "C:\\java\\httpcomponents-client-4.2.5\\lib\\httpmime-4.2.5.jar",
+    "javaRuntime": false
+  }
+]

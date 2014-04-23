@@ -1,0 +1,35 @@
+import static org.lwjgl.opengl.GL11.*;
+
+
+
+
+try {
+	            Display.setDisplayMode(new DisplayMode(640, 480));
+	            Display.setTitle("Minecraft 2D");
+	            Display.create();
+	        } catch (LWJGLException e) {
+	            e.printStackTrace();
+	            Display.destroy();
+	            System.exit(1);
+	        }
+
+
+	        // Initialization code OpenGL
+	        glMatrixMode(GL_PROJECTION);
+	        glLoadIdentity();
+	        glOrtho(0, 640, 480, 0, 1, -1);
+	        glMatrixMode(GL_MODELVIEW);
+	        glEnable(GL_TEXTURE_2D);
+	        glEnable(GL_BLEND);
+	        glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+
+	        while (!Display.isCloseRequested()) {
+	            // Render
+
+	            glClear(GL_COLOR_BUFFER_BIT);
+
+	            Display.update();
+	            Display.sync(60);
+	        }
+	        Display.destroy();
+	        System.exit(0);

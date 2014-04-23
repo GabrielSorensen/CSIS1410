@@ -1,0 +1,75 @@
+public class ReduceTheCode {
+	private int foo=5;
+	public ReduceTheCode(){
+	}
+	public int getFoo(){	
+		return foo;
+	}
+	public void setVariables(int a){
+		foo = a;
+	}
+	public static int a(int i){
+		return (i<21&&i>=0)?i+12:-1;
+	}
+	public static int b(int i){
+		return i==20 ? 9946 : i < 20&&i >=0 ?  Integer.parseInt("349330116881541321441728838329708226239641069201958274124091729117479922464760709946".substring(4*i, ((4*i)+4))) : -1;
+	}
+	public static void c(int i){
+	}
+}
+
+
+
+
+
+
+
+
+
+
+ b =     349330116881541321441728838329708226239641069201958274124091729117479922464760709946
+349330116881541321441728838329708226239641069201958274124091729117479922464760709946
+		if(i == 0){
+			return 3493;
+		else if(i == 1){
+			return 3011;
+		else if(i == 2){
+			return 6881;
+		else if(i == 3){
+			return 5413;
+		else if(i == 4){
+			return 2144;
+		else if(i == 5){
+			return 1728;
+		else if(i == 6){
+			return 8383;
+		else if(i == 7){
+			return 2970;
+		else if(i == 8){
+			return 8226;
+		else if(i == 9){
+			return 2396;
+		else if(i == 10){
+			return 4106;
+		else if(i == 11){
+			return 9201;
+		else if(i == 12){
+			return 9582;
+		else if(i == 13){
+			return 7412;
+		else if(i == 14){
+			return 4091;
+		else if(i == 15){
+			return 7291;
+		else if(i == 16){
+			return 1747;
+		else if(i == 17){
+			return 9922;
+		else if(i == 18){
+			return 4647;
+		else if(i == 19){
+			return 6070;
+		else if(i == 20){
+			return 9946;
+			return -1;
+ c =     
